@@ -2,4 +2,8 @@
  <html>
     <head>
     </head>
+    <body>
+    <p>git講習午後</p>
+    </body>
+    
  </html>
