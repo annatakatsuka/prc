@@ -5,5 +5,6 @@
 
     <bpdy>
     <p> これはdevelop</p>
+    <p>練習中です</p>
     </body>
 </html>
